@@ -1,1 +1,2 @@
-This is a customized version of the DeOldify code, but this automatically saves the output to my google drive when its finished.
+# DeOldify Auto Download To Local Storage
+ DeOldify, but it automatically downloads the result files to a folder called "DeOldify" in your Google Drive.
